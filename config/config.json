@@ -1,0 +1,16 @@
+{
+  "clusters": {
+    "production": {
+      "url": "${KUSTO_CLUSTER_URL}",
+      "database": "${KUSTO_DATABASE}"
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/mcp-kusto-server.log"
+  },
+  "settings": {
+    "default_limit": 1000,
+    "timeout_seconds": 30
+  }
+}
