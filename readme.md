@@ -42,7 +42,7 @@ python pre_auth.py
 ```
 - Choose **Option 2 (Interactive Browser)**
 - Your browser will open for Microsoft authentication
-- Sign in with your Microsoft work account
+- Sign in with your account
 - This caches your credentials for VS Code
 
 ### 4. Configure VS Code MCP Settings
